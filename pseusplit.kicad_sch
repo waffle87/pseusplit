@@ -17228,15 +17228,6 @@
 				(hide yes)
 			)
 		)
-		(property "MPN" "C81598"
-			(at 96.52 35.56 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
 		(pin "1"
 			(uuid "7fb1daa3-55ca-44b3-aeec-4445c5a7ddee")
 		)
@@ -17308,15 +17299,6 @@
 				(hide yes)
 			)
 		)
-		(property "MPN" "C28233"
-			(at 328.93 85.09 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
 		(pin "2"
 			(uuid "8cd92c72-33d0-4230-a43c-5abb6c99143b")
 		)
@@ -17377,15 +17359,6 @@
 			)
 		)
 		(property "Description" "reverse mount RGB LED, green/red/blue/anode. Link: https://www.alibaba.com/product-detail/SMD-6028-Smd-Led-RGB-color_60283039151.html"
-			(at 113.03 173.99 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "MPN" "C183826"
 			(at 113.03 173.99 0)
 			(effects
 				(font
@@ -17534,15 +17507,6 @@
 				(hide yes)
 			)
 		)
-		(property "MPN" ""
-			(at 83.82 46.99 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
 		(pin "2"
 			(uuid "c567528b-b918-4688-8f3b-dad13d452114")
 		)
@@ -17604,15 +17568,6 @@
 			)
 		)
 		(property "Description" "Push button switch, normally open, two pins, 45° tilted"
-			(at 96.52 62.23 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "MPN" ""
 			(at 96.52 62.23 0)
 			(effects
 				(font
@@ -17813,15 +17768,6 @@
 			)
 		)
 		(property "Description" "Push button switch, normally open, two pins, 45° tilted"
-			(at 109.22 77.47 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "MPN" ""
 			(at 109.22 77.47 0)
 			(effects
 				(font
@@ -18243,15 +18189,6 @@
 				(hide yes)
 			)
 		)
-		(property "MPN" "C81598"
-			(at 20.32 50.8 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
 		(pin "1"
 			(uuid "e914f1a8-43b6-4e3d-913e-9071796646c6")
 		)
@@ -18338,15 +18275,6 @@
 				(hide yes)
 			)
 		)
-		(property "MPN" "C81598"
-			(at 109.22 66.04 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
 		(pin "1"
 			(uuid "fa0e1da6-8f09-45e6-b24d-45f35e0c67e5")
 		)
@@ -18426,15 +18354,6 @@
 		)
 		(property "Sim.Pins" "1=K 2=A"
 			(at 45.72 44.45 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "MPN" "C81598"
-			(at 45.72 35.56 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -18576,15 +18495,6 @@
 				(hide yes)
 			)
 		)
-		(property "MPN" "C183826"
-			(at 151.13 201.93 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
 		(pin "2"
 			(uuid "c26dba44-c1f1-4e06-9397-8ec4c399e73f")
 		)
@@ -18659,15 +18569,6 @@
 				(hide yes)
 			)
 		)
-		(property "MPN" "C183826"
-			(at 189.23 173.99 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
 		(pin "2"
 			(uuid "224a573d-312b-411f-b813-78766d235851")
 		)
@@ -18734,15 +18635,6 @@
 			)
 		)
 		(property "Description" "reverse mount RGB LED, green/red/blue/anode. Link: https://www.alibaba.com/product-detail/SMD-6028-Smd-Led-RGB-color_60283039151.html"
-			(at 132.08 173.99 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "MPN" "C183826"
 			(at 132.08 173.99 0)
 			(effects
 				(font
@@ -18891,15 +18783,6 @@
 				(hide yes)
 			)
 		)
-		(property "MPN" "C183826"
-			(at 151.13 173.99 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
 		(pin "2"
 			(uuid "3411d078-95b3-406d-adcf-2459d852f5ce")
 		)
@@ -18968,15 +18851,6 @@
 			)
 		)
 		(property "Description" "Unpolarized capacitor, small symbol"
-			(at 243.84 30.48 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "MPN" "C28323"
 			(at 243.84 30.48 0)
 			(effects
 				(font
@@ -19071,15 +18945,6 @@
 				(hide yes)
 			)
 		)
-		(property "MPN" "C81598"
-			(at 96.52 81.28 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
 		(pin "1"
 			(uuid "4e7f3953-c0b5-4de0-915b-b0e18bc7837f")
 		)
@@ -19166,15 +19031,6 @@
 				(hide yes)
 			)
 		)
-		(property "MPN" "C81598"
-			(at 109.22 35.56 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
 		(pin "1"
 			(uuid "dbb12251-e561-41a9-89ed-4efc983d64f0")
 		)
@@ -19246,15 +19102,6 @@
 				(hide yes)
 			)
 		)
-		(property "MPN" "C20616358"
-			(at 300.99 35.56 90)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
 		(pin "2"
 			(uuid "b8acc796-2677-4ce1-86fe-129d9883cb99")
 		)
@@ -19319,15 +19166,6 @@
 			)
 		)
 		(property "Description" "Push button switch, normally open, two pins, 45° tilted"
-			(at 83.82 77.47 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "MPN" ""
 			(at 83.82 77.47 0)
 			(effects
 				(font
@@ -19538,15 +19376,6 @@
 				(hide yes)
 			)
 		)
-		(property "MPN" "C1744"
-			(at 158.75 68.58 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
 		(pin "2"
 			(uuid "114948a8-6b7e-4393-9748-e7fc30d4e16d")
 		)
@@ -19615,15 +19444,6 @@
 				(hide yes)
 			)
 		)
-		(property "MPN" "C149504"
-			(at 246.38 160.02 90)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
 		(pin "2"
 			(uuid "6cd7cef0-4e16-4a0c-8b05-04860518fcd1")
 		)
@@ -19684,15 +19504,6 @@
 			)
 		)
 		(property "Description" "reverse mount RGB LED, green/red/blue/anode. Link: https://www.alibaba.com/product-detail/SMD-6028-Smd-Led-RGB-color_60283039151.html"
-			(at 93.98 146.05 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "MPN" "C183826"
 			(at 93.98 146.05 0)
 			(effects
 				(font
@@ -19775,15 +19586,6 @@
 				(hide yes)
 			)
 		)
-		(property "MPN" "C4328"
-			(at 246.38 167.64 90)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
 		(pin "1"
 			(uuid "caeff76e-75ce-4e15-a5c4-5ad45caf5947")
 		)
@@ -19845,15 +19647,6 @@
 		)
 		(property "Description" "Resistor, small symbol"
 			(at 191.77 33.02 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "MPN" "C27834"
-			(at 191.77 33.02 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -19947,15 +19740,6 @@
 				(hide yes)
 			)
 		)
-		(property "MPN" "C81598"
-			(at 20.32 66.04 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
 		(pin "1"
 			(uuid "9f492129-17e4-41dc-9ac6-6461c998a1ff")
 		)
@@ -20016,15 +19800,6 @@
 			)
 		)
 		(property "Description" "Push button switch, normally open, two pins, 45° tilted"
-			(at 83.82 62.23 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "MPN" ""
 			(at 83.82 62.23 0)
 			(effects
 				(font
@@ -20184,15 +19959,6 @@
 				(hide yes)
 			)
 		)
-		(property "MPN" "C81598"
-			(at 134.62 35.56 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
 		(pin "1"
 			(uuid "f17b7048-0eb2-40e5-a856-5451c6bd5e18")
 		)
@@ -20263,15 +20029,6 @@
 				(hide yes)
 			)
 		)
-		(property "MPN" "C45783"
-			(at 246.38 111.76 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
 		(pin "2"
 			(uuid "3a5d6dbf-d0b8-4389-ac29-0410b2d759a0")
 		)
@@ -20333,15 +20090,6 @@
 		)
 		(property "Description" "Resistor, small symbol"
 			(at 191.77 30.48 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "MPN" "C27834"
-			(at 191.77 30.48 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -20435,15 +20183,6 @@
 				(hide yes)
 			)
 		)
-		(property "MPN" "C81598"
-			(at 109.22 50.8 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
 		(pin "1"
 			(uuid "b83ac666-b1d9-4f9e-9393-d87f8d085d97")
 		)
@@ -20504,15 +20243,6 @@
 			)
 		)
 		(property "Description" "reverse mount RGB LED, green/red/blue/anode. Link: https://www.alibaba.com/product-detail/SMD-6028-Smd-Led-RGB-color_60283039151.html"
-			(at 74.93 146.05 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "MPN" "C183826"
 			(at 74.93 146.05 0)
 			(effects
 				(font
@@ -20678,15 +20408,6 @@
 				(hide yes)
 			)
 		)
-		(property "MPN" "C81598"
-			(at 33.02 35.56 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
 		(pin "1"
 			(uuid "a9518571-0315-47df-8e1d-58f6d55c5981")
 		)
@@ -20813,15 +20534,6 @@
 			)
 		)
 		(property "Description" "Push button switch, normally open, two pins, 45° tilted"
-			(at 109.22 46.99 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "MPN" ""
 			(at 109.22 46.99 0)
 			(effects
 				(font
@@ -20966,15 +20678,6 @@
 				(hide yes)
 			)
 		)
-		(property "MPN" ""
-			(at 109.22 31.75 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
 		(pin "2"
 			(uuid "99780792-3b4c-43ea-be7b-c5fe63288e8b")
 		)
@@ -21045,15 +20748,6 @@
 				(hide yes)
 			)
 		)
-		(property "MPN" "C49678"
-			(at 261.62 100.33 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
 		(pin "1"
 			(uuid "764b984c-0636-40dd-bb64-034d56b67873")
 		)
@@ -21115,15 +20809,6 @@
 			)
 		)
 		(property "Description" "Push button switch, normally open, two pins, 45° tilted"
-			(at 58.42 31.75 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "MPN" ""
 			(at 58.42 31.75 0)
 			(effects
 				(font
@@ -21218,15 +20903,6 @@
 				(hide yes)
 			)
 		)
-		(property "MPN" "C81598"
-			(at 109.22 81.28 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
 		(pin "1"
 			(uuid "75c4ed12-cea3-403f-b6a4-7195aa8e59a2")
 		)
@@ -21288,15 +20964,6 @@
 			)
 		)
 		(property "Description" "Push button switch, normally open, two pins, 45° tilted"
-			(at 33.02 46.99 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "MPN" ""
 			(at 33.02 46.99 0)
 			(effects
 				(font
@@ -21375,15 +21042,6 @@
 				(hide yes)
 			)
 		)
-		(property "MPN" "C17604"
-			(at 236.22 146.05 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
 		(pin "2"
 			(uuid "37ef7ae4-c855-487c-95ab-42dd8d04216c")
 		)
@@ -21453,15 +21111,6 @@
 				(hide yes)
 			)
 		)
-		(property "MPN" ""
-			(at 45.72 31.75 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
 		(pin "2"
 			(uuid "ce66838b-1bca-4d1d-984e-f0acefd8d2d1")
 		)
@@ -21522,15 +21171,6 @@
 			)
 		)
 		(property "Description" "reverse mount RGB LED, green/red/blue/anode. Link: https://www.alibaba.com/product-detail/SMD-6028-Smd-Led-RGB-color_60283039151.html"
-			(at 36.83 118.11 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "MPN" "C183826"
 			(at 36.83 118.11 0)
 			(effects
 				(font
@@ -21614,15 +21254,6 @@
 				(hide yes)
 			)
 		)
-		(property "MPN" ""
-			(at 45.72 46.99 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
 		(pin "2"
 			(uuid "dffb31a4-1ceb-4673-8dc7-ccc3fd0287e9")
 		)
@@ -21692,15 +21323,6 @@
 				(hide yes)
 			)
 		)
-		(property "MPN" ""
-			(at 58.42 77.47 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
 		(pin "2"
 			(uuid "51457b61-262f-43f3-a8c7-a2c836cb0dcd")
 		)
@@ -21761,15 +21383,6 @@
 			)
 		)
 		(property "Description" "reverse mount RGB LED, green/red/blue/anode. Link: https://www.alibaba.com/product-detail/SMD-6028-Smd-Led-RGB-color_60283039151.html"
-			(at 55.88 146.05 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "MPN" "C183826"
 			(at 55.88 146.05 0)
 			(effects
 				(font
@@ -21853,15 +21466,6 @@
 				(hide yes)
 			)
 		)
-		(property "MPN" ""
-			(at 96.52 31.75 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
 		(pin "2"
 			(uuid "77508513-e2a7-4087-b845-2780cf9146b6")
 		)
@@ -21923,15 +21527,6 @@
 			)
 		)
 		(property "Description" "Push button switch, normally open, two pins, 45° tilted"
-			(at 134.62 31.75 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "MPN" ""
 			(at 134.62 31.75 0)
 			(effects
 				(font
@@ -22002,15 +21597,6 @@
 			)
 		)
 		(property "Description" "Unpolarized capacitor, small symbol"
-			(at 312.42 27.94 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "MPN" "C1744"
 			(at 312.42 27.94 0)
 			(effects
 				(font
@@ -22155,15 +21741,6 @@
 				(hide yes)
 			)
 		)
-		(property "MPN" "C13967"
-			(at 247.65 139.7 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
 		(pin "2"
 			(uuid "4de228ad-f1b2-44ea-8b6f-b649b3489944")
 		)
@@ -22250,15 +21827,6 @@
 				(hide yes)
 			)
 		)
-		(property "MPN" "C81598"
-			(at 121.92 35.56 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
 		(pin "1"
 			(uuid "aa6a217f-8093-47f1-962b-5795a76c7312")
 		)
@@ -22328,15 +21896,6 @@
 				(hide yes)
 			)
 		)
-		(property "MPN" ""
-			(at 58.42 46.99 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
 		(pin "2"
 			(uuid "bddfd528-58d7-496a-a739-de8b9653584f")
 		)
@@ -22397,15 +21956,6 @@
 			)
 		)
 		(property "Description" "Push button switch, normally open, two pins, 45° tilted"
-			(at 71.12 77.47 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "MPN" ""
 			(at 71.12 77.47 0)
 			(effects
 				(font
@@ -22484,15 +22034,6 @@
 				(hide yes)
 			)
 		)
-		(property "MPN" "C49678"
-			(at 261.62 123.19 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
 		(pin "1"
 			(uuid "a5917a01-4b65-466a-a32b-5311ec501ba4")
 		)
@@ -22562,15 +22103,6 @@
 				(hide yes)
 			)
 		)
-		(property "MPN" ""
-			(at 45.72 77.47 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
 		(pin "2"
 			(uuid "682f44a5-5564-4d48-be26-f406797a551a")
 		)
@@ -22631,15 +22163,6 @@
 			)
 		)
 		(property "Description" "reverse mount RGB LED, green/red/blue/anode. Link: https://www.alibaba.com/product-detail/SMD-6028-Smd-Led-RGB-color_60283039151.html"
-			(at 170.18 201.93 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "MPN" "C183826"
 			(at 170.18 201.93 0)
 			(effects
 				(font
@@ -22725,15 +22248,6 @@
 				(hide yes)
 			)
 		)
-		(property "MPN" "C28233"
-			(at 318.77 85.09 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
 		(pin "2"
 			(uuid "9fd1521c-23e0-43b0-a774-be4d23481cd3")
 		)
@@ -22794,15 +22308,6 @@
 			)
 		)
 		(property "Description" "reverse mount RGB LED, green/red/blue/anode. Link: https://www.alibaba.com/product-detail/SMD-6028-Smd-Led-RGB-color_60283039151.html"
-			(at 74.93 118.11 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "MPN" "C183826"
 			(at 74.93 118.11 0)
 			(effects
 				(font
@@ -22969,15 +22474,6 @@
 				(hide yes)
 			)
 		)
-		(property "MPN" "C81598"
-			(at 58.42 81.28 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
 		(pin "1"
 			(uuid "22fe4f8c-5dc9-4b31-b170-e96126a462b7")
 		)
@@ -23041,15 +22537,6 @@
 			)
 		)
 		(property "Description" "ESD Protection Diodes with Low Clamping Voltage, SOT-23-6"
-			(at 241.3 55.88 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "MPN" "C558418"
 			(at 241.3 55.88 0)
 			(effects
 				(font
@@ -23139,15 +22626,6 @@
 				(hide yes)
 			)
 		)
-		(property "MPN" ""
-			(at 134.62 62.23 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
 		(pin "2"
 			(uuid "b107d3f7-59e1-4ffb-bca8-041c9c4e2096")
 		)
@@ -23208,15 +22686,6 @@
 			)
 		)
 		(property "Description" "reverse mount RGB LED, green/red/blue/anode. Link: https://www.alibaba.com/product-detail/SMD-6028-Smd-Led-RGB-color_60283039151.html"
-			(at 132.08 118.11 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "MPN" "C183826"
 			(at 132.08 118.11 0)
 			(effects
 				(font
@@ -23291,15 +22760,6 @@
 			)
 		)
 		(property "Description" "reverse mount RGB LED, green/red/blue/anode. Link: https://www.alibaba.com/product-detail/SMD-6028-Smd-Led-RGB-color_60283039151.html"
-			(at 74.93 173.99 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "MPN" "C183826"
 			(at 74.93 173.99 0)
 			(effects
 				(font
@@ -23383,15 +22843,6 @@
 				(hide yes)
 			)
 		)
-		(property "MPN" ""
-			(at 121.92 31.75 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
 		(pin "2"
 			(uuid "13bbc600-195d-4bf6-a909-15da22d1f337")
 		)
@@ -23453,15 +22904,6 @@
 			)
 		)
 		(property "Description" "Push button switch, normally open, two pins, 45° tilted"
-			(at 71.12 46.99 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "MPN" ""
 			(at 71.12 46.99 0)
 			(effects
 				(font
@@ -23547,15 +22989,6 @@
 				(hide yes)
 			)
 		)
-		(property "MPN" "C2297"
-			(at 340.36 219.71 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
 		(pin "2"
 			(uuid "8b95e5ab-5734-4b8b-b61e-cf927036784f")
 		)
@@ -23616,15 +23049,6 @@
 			)
 		)
 		(property "Description" "reverse mount RGB LED, green/red/blue/anode. Link: https://www.alibaba.com/product-detail/SMD-6028-Smd-Led-RGB-color_60283039151.html"
-			(at 74.93 201.93 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "MPN" "C183826"
 			(at 74.93 201.93 0)
 			(effects
 				(font
@@ -23725,15 +23149,6 @@
 				(hide yes)
 			)
 		)
-		(property "MPN" "C81598"
-			(at 58.42 50.8 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
 		(pin "1"
 			(uuid "efb58624-9c89-45d8-adfc-fb06032abcc6")
 		)
@@ -23795,15 +23210,6 @@
 			)
 		)
 		(property "Description" "Push button switch, normally open, two pins, 45° tilted"
-			(at 33.02 31.75 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "MPN" ""
 			(at 33.02 31.75 0)
 			(effects
 				(font
@@ -23880,15 +23286,6 @@
 				(hide yes)
 			)
 		)
-		(property "MPN" "C183826"
-			(at 132.08 201.93 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
 		(pin "2"
 			(uuid "08ac8a86-45b6-49b0-b29f-0b0405c8a5f5")
 		)
@@ -23956,15 +23353,6 @@
 			)
 		)
 		(property "Description" "Push button switch, normally open, two pins, 45° tilted"
-			(at 121.92 62.23 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "MPN" ""
 			(at 121.92 62.23 0)
 			(effects
 				(font
@@ -24052,15 +23440,6 @@
 		)
 		(property "Sim.Pins" "1=K 2=A"
 			(at 71.12 90.17 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "MPN" "C81598"
-			(at 71.12 81.28 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -24204,15 +23583,6 @@
 				(hide yes)
 			)
 		)
-		(property "MPN" "C49678"
-			(at 261.62 111.76 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
 		(pin "1"
 			(uuid "bb04e040-7c03-4588-be65-f2ca54f6fe29")
 		)
@@ -24273,15 +23643,6 @@
 			)
 		)
 		(property "Description" "reverse mount RGB LED, green/red/blue/anode. Link: https://www.alibaba.com/product-detail/SMD-6028-Smd-Led-RGB-color_60283039151.html"
-			(at 151.13 146.05 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "MPN" "C183826"
 			(at 151.13 146.05 0)
 			(effects
 				(font
@@ -24364,15 +23725,6 @@
 				(hide yes)
 			)
 		)
-		(property "MPN" "C183826"
-			(at 113.03 201.93 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
 		(pin "2"
 			(uuid "8edd3faf-65b9-4c57-b56b-c25241191b0a")
 		)
@@ -24441,15 +23793,6 @@
 			)
 		)
 		(property "Description" "Unpolarized capacitor, small symbol"
-			(at 254 100.33 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "MPN" "C13967"
 			(at 254 100.33 0)
 			(effects
 				(font
@@ -24544,15 +23887,6 @@
 				(hide yes)
 			)
 		)
-		(property "MPN" "C81598"
-			(at 83.82 66.04 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
 		(pin "1"
 			(uuid "61958c63-2898-44b8-9697-65c22f75904f")
 		)
@@ -24615,15 +23949,6 @@
 		)
 		(property "Description" "Resettable fuse, polymeric positive temperature coefficient, small symbol"
 			(at 233.68 25.4 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "MPN" "C2830238"
-			(at 233.68 25.4 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -24699,15 +24024,6 @@
 				(hide yes)
 			)
 		)
-		(property "MPN" "C183826"
-			(at 170.18 146.05 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
 		(pin "2"
 			(uuid "1c478247-b7a1-4eb0-af0f-40ff03b34759")
 		)
@@ -24774,15 +24090,6 @@
 			)
 		)
 		(property "Description" "reverse mount RGB LED, green/red/blue/anode. Link: https://www.alibaba.com/product-detail/SMD-6028-Smd-Led-RGB-color_60283039151.html"
-			(at 208.28 173.99 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "MPN" "C183826"
 			(at 208.28 173.99 0)
 			(effects
 				(font
@@ -24883,15 +24190,6 @@
 				(hide yes)
 			)
 		)
-		(property "MPN" "C81598"
-			(at 121.92 50.8 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
 		(pin "1"
 			(uuid "edf85d27-4764-4752-9cd0-d3e18bc4a7d0")
 		)
@@ -24952,15 +24250,6 @@
 			)
 		)
 		(property "Description" "Push button switch, normally open, two pins, 45° tilted"
-			(at 83.82 31.75 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "MPN" ""
 			(at 83.82 31.75 0)
 			(effects
 				(font
@@ -25167,15 +24456,6 @@
 				(hide yes)
 			)
 		)
-		(property "MPN" ""
-			(at 20.32 46.99 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
 		(pin "2"
 			(uuid "902a9e72-1b0f-498e-9984-990cc9ede62c")
 		)
@@ -25245,15 +24525,6 @@
 				(hide yes)
 			)
 		)
-		(property "MPN" "C318884"
-			(at 292.1 46.99 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
 		(pin "2"
 			(uuid "8b618b31-52c2-4a2a-9fd5-a9b3a7ab5488")
 		)
@@ -25314,15 +24585,6 @@
 			)
 		)
 		(property "Description" "reverse mount RGB LED, green/red/blue/anode. Link: https://www.alibaba.com/product-detail/SMD-6028-Smd-Led-RGB-color_60283039151.html"
-			(at 93.98 173.99 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "MPN" "C183826"
 			(at 93.98 173.99 0)
 			(effects
 				(font
@@ -25423,15 +24685,6 @@
 				(hide yes)
 			)
 		)
-		(property "MPN" "C81598"
-			(at 307.34 46.99 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
 		(pin "2"
 			(uuid "3bc5da02-b250-487e-8327-cd3a2249c1d2")
 		)
@@ -25502,15 +24755,6 @@
 				(hide yes)
 			)
 		)
-		(property "MPN" "C149504"
-			(at 312.42 52.07 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
 		(pin "2"
 			(uuid "a33ee12e-ff3e-4476-bf1f-b55118ed252a")
 		)
@@ -25571,15 +24815,6 @@
 			)
 		)
 		(property "Description" "reverse mount RGB LED, green/red/blue/anode. Link: https://www.alibaba.com/product-detail/SMD-6028-Smd-Led-RGB-color_60283039151.html"
-			(at 170.18 173.99 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "MPN" "C183826"
 			(at 170.18 173.99 0)
 			(effects
 				(font
@@ -25680,15 +24915,6 @@
 				(hide yes)
 			)
 		)
-		(property "MPN" "C81598"
-			(at 121.92 66.04 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
 		(pin "1"
 			(uuid "af719734-9b2e-47e9-8dd9-936e0867256e")
 		)
@@ -25768,15 +24994,6 @@
 		)
 		(property "Sim.Pins" "1=K 2=A"
 			(at 33.02 59.69 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "MPN" "C81598"
-			(at 33.02 50.8 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -25937,15 +25154,6 @@
 				(hide yes)
 			)
 		)
-		(property "MPN" "C81598"
-			(at 45.72 66.04 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
 		(pin "1"
 			(uuid "22be05bd-ae11-4581-8038-5b2c6b1af7af")
 		)
@@ -26025,15 +25233,6 @@
 		)
 		(property "Sim.Pins" "1=K 2=A"
 			(at 45.72 90.17 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "MPN" "C81598"
-			(at 45.72 81.28 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -26127,15 +25326,6 @@
 				(hide yes)
 			)
 		)
-		(property "MPN" "C81598"
-			(at 134.62 66.04 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
 		(pin "1"
 			(uuid "619478c2-b893-4101-9e85-27677712829d")
 		)
@@ -26222,15 +25412,6 @@
 				(hide yes)
 			)
 		)
-		(property "MPN" "C81598"
-			(at 83.82 50.8 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
 		(pin "1"
 			(uuid "917b7373-fee4-464b-a055-ef9d6639982e")
 		)
@@ -26310,15 +25491,6 @@
 		)
 		(property "Sim.Pins" "1=K 2=A"
 			(at 71.12 59.69 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "MPN" "C81598"
-			(at 71.12 50.8 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -26460,15 +25632,6 @@
 				(hide yes)
 			)
 		)
-		(property "MPN" "C183826"
-			(at 36.83 173.99 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
 		(pin "2"
 			(uuid "bb044930-24ae-4152-8e42-1c0122d94139")
 		)
@@ -26544,15 +25707,6 @@
 				(hide yes)
 			)
 		)
-		(property "MPN" ""
-			(at 58.42 62.23 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
 		(pin "2"
 			(uuid "9add1e33-d62d-4262-bf78-c0351cb26dc6")
 		)
@@ -26615,15 +25769,6 @@
 			)
 		)
 		(property "Description" "12x16 LED matrix driver with 8-bit PWM and breathing, QFN-48"
-			(at 269.24 180.34 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "MPN" "C506251"
 			(at 269.24 180.34 0)
 			(effects
 				(font
@@ -26925,15 +26070,6 @@
 				(hide yes)
 			)
 		)
-		(property "MPN" "C81598"
-			(at 20.32 35.56 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
 		(pin "1"
 			(uuid "28e4f4a5-093e-478e-a6f5-ec8a29119c16")
 		)
@@ -27004,15 +26140,6 @@
 				(hide yes)
 			)
 		)
-		(property "MPN" "C13967"
-			(at 254 123.19 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
 		(pin "1"
 			(uuid "ccabd8a0-0b2c-441c-8222-bd03eb9c49f8")
 		)
@@ -27074,15 +26201,6 @@
 		)
 		(property "Description" "Resistor, small symbol"
 			(at 246.38 157.48 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "MPN" "C17414"
-			(at 246.38 157.48 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -27290,15 +26408,6 @@
 				(hide yes)
 			)
 		)
-		(property "MPN" ""
-			(at 134.62 46.99 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
 		(pin "2"
 			(uuid "1009dded-fe03-49fd-9292-932849b79e6c")
 		)
@@ -27367,15 +26476,6 @@
 				(hide yes)
 			)
 		)
-		(property "MPN" ""
-			(at 20.32 31.75 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
 		(pin "2"
 			(uuid "7f7a3ddb-a70c-4f67-83fa-ae5fff7abeff")
 		)
@@ -27436,15 +26536,6 @@
 			)
 		)
 		(property "Description" "reverse mount RGB LED, green/red/blue/anode. Link: https://www.alibaba.com/product-detail/SMD-6028-Smd-Led-RGB-color_60283039151.html"
-			(at 93.98 118.11 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "MPN" "C183826"
 			(at 93.98 118.11 0)
 			(effects
 				(font
@@ -27527,15 +26618,6 @@
 				(hide yes)
 			)
 		)
-		(property "MPN" "C183826"
-			(at 93.98 201.93 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
 		(pin "2"
 			(uuid "2cd88177-cc17-4856-b296-c2dfa591790f")
 		)
@@ -27602,15 +26684,6 @@
 			)
 		)
 		(property "Description" "reverse mount RGB LED, green/red/blue/anode. Link: https://www.alibaba.com/product-detail/SMD-6028-Smd-Led-RGB-color_60283039151.html"
-			(at 113.03 146.05 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "MPN" "C183826"
 			(at 113.03 146.05 0)
 			(effects
 				(font
@@ -27686,15 +26759,6 @@
 			)
 		)
 		(property "Description" "USB 2.0-only 14P Type-C Receptacle connector"
-			(at 171.45 40.64 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "MPN" "C165948"
 			(at 171.45 40.64 0)
 			(effects
 				(font
@@ -27828,15 +26892,6 @@
 				(hide yes)
 			)
 		)
-		(property "MPN" "C81598"
-			(at 71.12 35.56 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
 		(pin "1"
 			(uuid "ca2531be-3181-4b8c-8fc8-081cee614e29")
 		)
@@ -27897,15 +26952,6 @@
 			)
 		)
 		(property "Description" "reverse mount RGB LED, green/red/blue/anode. Link: https://www.alibaba.com/product-detail/SMD-6028-Smd-Led-RGB-color_60283039151.html"
-			(at 189.23 118.11 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "MPN" "C183826"
 			(at 189.23 118.11 0)
 			(effects
 				(font
@@ -27988,15 +27034,6 @@
 				(hide yes)
 			)
 		)
-		(property "MPN" ""
-			(at 20.32 62.23 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
 		(pin "2"
 			(uuid "a4ce937f-7a45-46a0-ad3f-a3f47b1a7eb1")
 		)
@@ -28068,15 +27105,6 @@
 				(hide yes)
 			)
 		)
-		(property "MPN" "C1779"
-			(at 339.09 85.09 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
 		(pin "2"
 			(uuid "9cd6c43b-529a-4966-b1c7-349469f3e114")
 		)
@@ -28137,15 +27165,6 @@
 			)
 		)
 		(property "Description" "reverse mount RGB LED, green/red/blue/anode. Link: https://www.alibaba.com/product-detail/SMD-6028-Smd-Led-RGB-color_60283039151.html"
-			(at 113.03 118.11 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "MPN" "C183826"
 			(at 113.03 118.11 0)
 			(effects
 				(font
@@ -28378,15 +27397,6 @@
 				(hide yes)
 			)
 		)
-		(property "MPN" "C81598"
-			(at 71.12 66.04 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
 		(pin "1"
 			(uuid "e9f199be-7741-40cf-88e8-27947df8238a")
 		)
@@ -28456,15 +27466,6 @@
 				(hide yes)
 			)
 		)
-		(property "MPN" ""
-			(at 121.92 46.99 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
 		(pin "2"
 			(uuid "2c07e77e-8b53-4455-95a3-80f96347ed34")
 		)
@@ -28525,15 +27526,6 @@
 			)
 		)
 		(property "Description" "reverse mount RGB LED, green/red/blue/anode. Link: https://www.alibaba.com/product-detail/SMD-6028-Smd-Led-RGB-color_60283039151.html"
-			(at 189.23 146.05 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "MPN" "C183826"
 			(at 189.23 146.05 0)
 			(effects
 				(font
@@ -28627,15 +27619,6 @@
 		)
 		(property "Sim.Pins" "1=K 2=A"
 			(at 33.02 74.93 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "MPN" "C81598"
-			(at 33.02 66.04 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -28911,15 +27894,6 @@
 				(hide yes)
 			)
 		)
-		(property "MPN" "C13967"
-			(at 254 111.76 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
 		(pin "1"
 			(uuid "c3514f93-3486-444f-a933-2051a3b2efc4")
 		)
@@ -28980,15 +27954,6 @@
 			)
 		)
 		(property "Description" "reverse mount RGB LED, green/red/blue/anode. Link: https://www.alibaba.com/product-detail/SMD-6028-Smd-Led-RGB-color_60283039151.html"
-			(at 36.83 146.05 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "MPN" "C183826"
 			(at 36.83 146.05 0)
 			(effects
 				(font
@@ -29195,15 +28160,6 @@
 			)
 		)
 		(property "Description" "Push button switch, normally open, two pins, 45° tilted"
-			(at 96.52 77.47 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "MPN" ""
 			(at 96.52 77.47 0)
 			(effects
 				(font
@@ -29431,15 +28387,6 @@
 				(hide yes)
 			)
 		)
-		(property "MPN" "C81598"
-			(at 58.42 35.56 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
 		(pin "1"
 			(uuid "72ac75e2-bd57-4837-867e-7e05bab93e17")
 		)
@@ -29500,15 +28447,6 @@
 			)
 		)
 		(property "Description" "reverse mount RGB LED, green/red/blue/anode. Link: https://www.alibaba.com/product-detail/SMD-6028-Smd-Led-RGB-color_60283039151.html"
-			(at 151.13 118.11 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "MPN" "C183826"
 			(at 151.13 118.11 0)
 			(effects
 				(font
@@ -29659,15 +28597,6 @@
 				(hide yes)
 			)
 		)
-		(property "MPN" "C5446"
-			(at 254 25.4 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
 		(pin "1"
 			(uuid "86af7978-129e-47bf-a84b-1e266c925cc8")
 		)
@@ -29731,15 +28660,6 @@
 			)
 		)
 		(property "Description" "reverse mount RGB LED, green/red/blue/anode. Link: https://www.alibaba.com/product-detail/SMD-6028-Smd-Led-RGB-color_60283039151.html"
-			(at 55.88 118.11 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "MPN" "C183826"
 			(at 55.88 118.11 0)
 			(effects
 				(font
@@ -29816,15 +28736,6 @@
 		)
 		(property "Description" "Generic connector, single row, 01x11, script generated"
 			(at 347.98 29.21 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "MPN" ""
-			(at 347.98 29.21 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -29945,15 +28856,6 @@
 				(hide yes)
 			)
 		)
-		(property "MPN" "C81598"
-			(at 58.42 66.04 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
 		(pin "1"
 			(uuid "d2533646-0dca-487a-bffa-b1b32bd1de76")
 		)
@@ -30023,15 +28925,6 @@
 				(hide yes)
 			)
 		)
-		(property "MPN" "C27834"
-			(at 351.79 219.71 90)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
 		(pin "2"
 			(uuid "5f55622a-46b1-418c-a3e3-192b69fb2148")
 		)
@@ -30092,15 +28985,6 @@
 			)
 		)
 		(property "Description" "reverse mount RGB LED, green/red/blue/anode. Link: https://www.alibaba.com/product-detail/SMD-6028-Smd-Led-RGB-color_60283039151.html"
-			(at 208.28 118.11 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "MPN" "C183826"
 			(at 208.28 118.11 0)
 			(effects
 				(font
@@ -30201,15 +29085,6 @@
 				(hide yes)
 			)
 		)
-		(property "MPN" "C81598"
-			(at 45.72 50.8 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
 		(pin "1"
 			(uuid "0a77c7da-e0a0-42f1-990e-ad0cb53cf09c")
 		)
@@ -30271,15 +29146,6 @@
 			)
 		)
 		(property "Description" "Push button switch, normally open, two pins, 45° tilted"
-			(at 45.72 62.23 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "MPN" ""
 			(at 45.72 62.23 0)
 			(effects
 				(font
@@ -30358,15 +29224,6 @@
 				(hide yes)
 			)
 		)
-		(property "MPN" "C28323"
-			(at 264.16 30.48 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
 		(pin "2"
 			(uuid "5c03ca8a-efdd-4059-ae6c-596c175dc125")
 		)
@@ -30427,15 +29284,6 @@
 			)
 		)
 		(property "Description" "reverse mount RGB LED, green/red/blue/anode. Link: https://www.alibaba.com/product-detail/SMD-6028-Smd-Led-RGB-color_60283039151.html"
-			(at 170.18 118.11 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "MPN" "C183826"
 			(at 170.18 118.11 0)
 			(effects
 				(font
@@ -30603,15 +29451,6 @@
 				(hide yes)
 			)
 		)
-		(property "MPN" "C81598"
-			(at 83.82 81.28 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
 		(pin "1"
 			(uuid "eb842c37-884e-414d-a67e-7055ecf94a96")
 		)
@@ -30746,15 +29585,6 @@
 				(hide yes)
 			)
 		)
-		(property "MPN" "C183826"
-			(at 132.08 146.05 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
 		(pin "2"
 			(uuid "0dd0ba29-2a63-46b9-b9d3-b2104d174de9")
 		)
@@ -30821,15 +29651,6 @@
 			)
 		)
 		(property "Description" "reverse mount RGB LED, green/red/blue/anode. Link: https://www.alibaba.com/product-detail/SMD-6028-Smd-Led-RGB-color_60283039151.html"
-			(at 55.88 173.99 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "MPN" "C183826"
 			(at 55.88 173.99 0)
 			(effects
 				(font
@@ -30913,15 +29734,6 @@
 				(hide yes)
 			)
 		)
-		(property "MPN" ""
-			(at 96.52 46.99 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
 		(pin "2"
 			(uuid "6aadc950-17ac-4a84-a738-24ffcb98d82a")
 		)
@@ -30992,15 +29804,6 @@
 				(hide yes)
 			)
 		)
-		(property "MPN" "C17604"
-			(at 238.76 146.05 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
 		(pin "2"
 			(uuid "18b17b81-ceb2-4f6d-adf6-107a22606854")
 		)
@@ -31062,15 +29865,6 @@
 			)
 		)
 		(property "Description" "Push button switch, normally open, two pins, 45° tilted"
-			(at 71.12 62.23 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "MPN" ""
 			(at 71.12 62.23 0)
 			(effects
 				(font
@@ -31165,15 +29959,6 @@
 				(hide yes)
 			)
 		)
-		(property "MPN" "C81598"
-			(at 96.52 66.04 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
 		(pin "1"
 			(uuid "e9e1b1a3-298a-4958-bc59-d34cce2bc97c")
 		)
@@ -31260,15 +30045,6 @@
 				(hide yes)
 			)
 		)
-		(property "MPN" "C81598"
-			(at 83.82 35.56 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
 		(pin "1"
 			(uuid "ace5a00f-d842-4cb7-a65c-c369b2545f2e")
 		)
@@ -31329,15 +30105,6 @@
 			)
 		)
 		(property "Description" "reverse mount RGB LED, green/red/blue/anode. Link: https://www.alibaba.com/product-detail/SMD-6028-Smd-Led-RGB-color_60283039151.html"
-			(at 208.28 146.05 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "MPN" "C183826"
 			(at 208.28 146.05 0)
 			(effects
 				(font
@@ -31421,15 +30188,6 @@
 				(hide yes)
 			)
 		)
-		(property "MPN" ""
-			(at 33.02 62.23 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
 		(pin "2"
 			(uuid "efe73e17-5438-47e7-8497-5c4ca76a2e6b")
 		)
@@ -31492,15 +30250,6 @@
 			)
 		)
 		(property "Description" "Resistor, small symbol"
-			(at 163.83 68.58 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "MPN" "C17514"
 			(at 163.83 68.58 0)
 			(effects
 				(font
@@ -31572,15 +30321,6 @@
 			)
 		)
 		(property "Description" "STMicroelectronics Arm Cortex-M0+ MCU, 128KB flash, 144KB RAM, 64 MHz, 1.7-3.6V, 44 GPIO, LQFP48"
-			(at 339.09 147.32 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "MPN" "C2847904"
 			(at 339.09 147.32 0)
 			(effects
 				(font
@@ -31797,15 +30537,6 @@
 				(hide yes)
 			)
 		)
-		(property "MPN" "C1779"
-			(at 309.88 85.09 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
 		(pin "2"
 			(uuid "8f2b840d-43d0-494a-b059-0004375e4a35")
 		)
@@ -31868,15 +30599,6 @@
 			)
 		)
 		(property "Description" "Unpolarized capacitor, small symbol"
-			(at 316.23 52.07 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "MPN" "C15850"
 			(at 316.23 52.07 0)
 			(effects
 				(font
@@ -32086,15 +30808,6 @@
 				(hide yes)
 			)
 		)
-		(property "MPN" ""
-			(at 71.12 31.75 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
 		(pin "2"
 			(uuid "300690d7-ca1e-4853-8c64-4fb76614af6d")
 		)
@@ -32174,15 +30887,6 @@
 		)
 		(property "Sim.Pins" "1=K 2=A"
 			(at 134.62 59.69 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "MPN" "C81598"
-			(at 134.62 50.8 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -32276,15 +30980,6 @@
 				(hide yes)
 			)
 		)
-		(property "MPN" "C81598"
-			(at 96.52 50.8 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
 		(pin "1"
 			(uuid "cece7b3e-2fca-4abf-8e91-912c2a5e6a6e")
 		)
@@ -32346,15 +31041,6 @@
 			)
 		)
 		(property "Description" "Push button switch, normally open, two pins, 45° tilted"
-			(at 109.22 62.23 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "MPN" ""
 			(at 109.22 62.23 0)
 			(effects
 				(font
