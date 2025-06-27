@@ -4,7 +4,7 @@ A pseudo-split keyboard with a trackpad or LCD display and per-key RGB
 
 ![pcb_top](img/pcb_top.svg)
 
-![pcb_bottom](img/pcb_bottm.svg)
+![pcb_bottom](img/pcb_bottom.svg)
 
 ## Hardware Specifics
 This keyboard uses an integrated STM32G0B1 microcontroller fit with a single push button switch^[1](#references)^, and USB-C. It also features a dedicated IS31FL3733 RGB Matrix driver to alleviate processing power from the primary MCU for LCD drawing, or other tasks.
