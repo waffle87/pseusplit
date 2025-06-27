@@ -6,7 +6,7 @@
 	(paper "A3")
 	(title_block
 		(title "pseusplit keyboard")
-		(date "2025-06-08")
+		(date "2025-06-25")
 		(rev "0.1.0")
 		(company "jack@pngu.org")
 	)
@@ -20002,7 +20002,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Capacitor_SMD:C_0805_2012Metric"
+		(property "Footprint" "Capacitor_Tantalum_SMD:CP_EIA-3216-18_Kemet-A"
 			(at 246.38 111.76 0)
 			(effects
 				(font
@@ -28708,7 +28708,7 @@
 				(hide yes)
 			)
 		)
-		(property "Value" "ST7789 320x240"
+		(property "Value" "ST7789 320x240/TPS43"
 			(at 347.98 26.67 90)
 			(effects
 				(font

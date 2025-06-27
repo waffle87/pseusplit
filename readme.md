@@ -3,7 +3,8 @@
 A pseudo-split keyboard with a trackpad or LCD display and per-key RGB
 
 ![pcb_top](img/pcb_top.svg)
-![pcb_bottm](img/pcb_bottm.svg)
+
+![pcb_bottom](img/pcb_bottm.svg)
 
 ## Hardware Specifics
 This keyboard uses an integrated STM32G0B1 microcontroller fit with a single push button switch^[1](#references)^, and USB-C. It also features a dedicated IS31FL3733 RGB Matrix driver to alleviate processing power from the primary MCU for LCD drawing, or other tasks.
@@ -40,11 +41,12 @@ will generally correct this without issue.
 For optional components to be installed by hand:
 | Item | Quantity | Remarks |
 |------|----------|---------|
+| 6028 RGB LEDs ([Alibaba]((https://www.alibaba.com/product-detail/smd-6028-RGB-led-diode-for_60637386884.html))) | 36 | Unforunately, LEDs matching this pinout are rather difficult to find, and are not carried by LCSC. |
 | 4mm M2 Screws | 8 | Used for mounting PCB to plate case. Length does not have to be exact. |
 | 6mm M2 Standoffs | 4 | Used for mounting PCB to plate case. Ensure maximum diameter is no greater than 4mm. |
 | 240x240 LCD ([ST7789](https://www.adafruit.com/product/3787)) | 1^*^ | Other displays with same pinout and dimensions (no larger than 40x43mm) will work. |
 | Azoteq Trackpad ([TPS43](https://www.mouser.com/ProductDetail/Azoteq/TPS43-201A-B?qs=HXFqYaX1Q2x%252BNkQCZlM0ug%3D%3D)) | 1^*^ | Installed via soldering wires to appropriate display header pins. |
-| MX Switches | 34 or 36 | Pick your favourite switches! |
+| MX Switches | 36 | Pick your favourite switches! |
 
 * Trackpad and LCD is either/or. Both cannot be installed at the same time.
 
